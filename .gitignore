@@ -1,0 +1,4 @@
+materials/
+tmp/
+.venv/
+.DS_store
